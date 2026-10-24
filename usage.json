@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/provider-metadata",
+  "packageVersion": "1.2.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/provider-metadata",
+  "usageRepository": "https://github.com/x12i-sdk/provider-metadata",
+  "sourceRepository": "https://github.com/x12i/ai-dispatcher-monorepo",
+  "sourceCommit": "52fd741d89187c60cf7697d437c9a7f3b486839e",
+  "sourcePackageDirectory": "provider-metadata",
+  "example": {
+    "title": "Pack and recover a provider metadata record",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:32:37.450540+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "63a51260b14bba7dc795cc26eddbfaefa2017eeaf19f9af2eec8a82fccd42e9f",
+    "manifestSha256": "be01f6d65fa21982588bfb316c16830d82a200f70ff2efcdb291d7cb85274cf3"
+  }
+}
