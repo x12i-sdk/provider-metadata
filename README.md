@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Pack, open, and normalize one provider metadata record. The same wire object for every provider.
-- A Provider integration needs to reuse the capabilities of @x12i/provider-metadata inside a larger application.
+- Pack one provider-metadata record into the shared wire format.
+- Recover metadata after a provider response so downstream code can read the same record fields.
 
 ## Links
 
